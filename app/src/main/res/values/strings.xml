@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentProject</string>
+    <string name="primera_actividad">Primera actividad</string>
+    <string name="segunda_actividad">Segunda actividad</string>
+    <string name="tercera_actividad">Tercera actividad</string>
+    <string name="result_ko">La actividad no ha finalizado bien</string>
+    <string name="msj_desde_a3">\"Mensaje enviado por la actividad \"</string>
+    <string name="msj_desde_a2">\"Mensaje enviado por la actividad \"</string>
+    <string name="texto_a2_a3">Pulsa sobre Actividad 2 o Actividad 3</string>
+</resources>
