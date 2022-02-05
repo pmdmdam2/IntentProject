@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentProject</string>
+    <string name="actividadB">Acitividad B</string>
+    <string name="irActA"><![CDATA[< Ir Act. A]]></string>
+    <string name="actividadA">Actividad A</string>
+    <string name="irActB"><![CDATA[Ir Act. B >]]></string>
+    <string name="textoDeAaB">Esta actividad se ha iniciado desde la actividad principal</string>
+    <string name="texto_ok">Todo ha ido bien en la segunda actividad</string>
+</resources>
